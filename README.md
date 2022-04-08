@@ -1,1 +1,1 @@
-# kino-like
+# kino-like - курс Glo Academy
